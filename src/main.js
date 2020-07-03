@@ -10,7 +10,6 @@ Vue.component('country-flag', CountryFlag)
 
 Vue.config.productionTip = false;
 
-/* eslint-disable */
 new Vue({
   router,
   store,
