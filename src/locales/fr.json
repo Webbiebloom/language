@@ -1,0 +1,9 @@
+{
+    "hello": "Bonjour!!",
+    "welcomeMessage": "Ceci est un test de traduction en français",
+    "about": "C'est à propos de la page",
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos de nous"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "hello": "hello!!",
+  "welcomeMessage": "This is an English translation test",
+  "about": "This is about us page in English",
+  "nav": {
+    "home": "Home",
+    "about": "About us"
+  }
+}

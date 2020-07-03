@@ -1,0 +1,9 @@
+{
+    "hello": "hallo i18n !!",
+    "welcomeMessage": "Dit is een Nederlandstalige vertaling test",
+    "about": "Dit is de over ons pagina in het Nederlands",
+    "nav": {
+        "home": "Thuis",
+        "about": "Over ons"
+    }
+}
